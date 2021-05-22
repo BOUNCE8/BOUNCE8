@@ -3,9 +3,13 @@
 I am a Full Stack Developer specialising within the Javascript ecosystem. I really enjoy working in React (React Native), Typescript, Node.js, Sequelize and PostgresSQL.
 
 <h4>Current Projects I'm working on:</h4>
-Moody App - Mood recording app that allows for monitoring mood trends.
+<ul>
+  <li>
+    <a href='https://github.com/BOUNCE8/MoodyApp'>Moody App</a>  <span>- Mood recording app that allows for monitoring mood trends.</span>
+  </li>
+</ul>
 
-<h4>Tech Stack:</h4>
+<h4>My Tech Stack:</h4>
 
 <!--
 **BOUNCE8/BOUNCE8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
