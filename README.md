@@ -16,7 +16,7 @@ I am a Full Stack Developer specialising within the Javascript ecosystem. I real
 <h4>Current Projects I'm working on:</h4>
 <ul>
   <li>
-    <a href='https://github.com/BOUNCE8/MoodyApp'>Moody App</a>  <span>- Mood recording app that allows for monitoring mood trends.</span>
+    <a href='https://github.com/BOUNCE8/MoodyApp/tree/development'>Moody App</a>  <span>- Mood recording app that allows for monitoring mood trends.</span>
   </li>
 </ul>
 
