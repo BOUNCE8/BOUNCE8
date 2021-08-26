@@ -15,7 +15,7 @@ I am a Frontend Developer specialising within the Javascript ecosystem. I really
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"> <img src="https://camo.githubusercontent.com/85a8b97390bbadb88c3c5453648f18b0f50d27a4c593c23868cc9d43605c474f/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f637373332d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="css3" width="50" height="50" data-canonical-src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
 <a href="https://www.prisma.io/" rel="nofollow"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png" alt="Prisma" width="50" height="50" style="max-width:100%;"> </a>
 <a href="https://jestjs.io/" rel="nofollow"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png" alt="Jest" width="50" height="50" style="max-width:100%;"> </a>
-<a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4"><img height="40" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4" style="max-width:100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4"><img height="50" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4" style="max-width:100%;"></a></p>
 </span>
 
 <!-- <h4>Current Projects I'm working on:</h4>
