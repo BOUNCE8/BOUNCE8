@@ -3,9 +3,8 @@
 I am a Frontend Developer specialising within the Javascript ecosystem. I really enjoy working in React (React Native) and Typescript but I also dabble in the backend with Node.js, Sequelize and PostgresSQL.
 
 <h4>My Tech Stack:</h4>
-
+< /br>
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="50" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></a>
 <a href="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" rel="nofollow"> <img src="https://camo.githubusercontent.com/969941fee70809f2e154beb80b7f50f3d80a67eb35f7e5c8a47b614032ec7b6a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f747970657363726970742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="typescript" width="50" height="50" data-canonical-src="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/290939f8582a3cfe443a7d1d555e1403b6b9553fa97bc6f8db0e95771cce45f6/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f72656163742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="react" width="50" height="50" data-canonical-src="https://icongr.am/devicon/react-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
 <a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b6f3a358faa8d7b5a24528eef859f2200e930ddf058c9bbf2319f5294e5ddc89/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="nodejs" width="50" height="50" data-canonical-src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
