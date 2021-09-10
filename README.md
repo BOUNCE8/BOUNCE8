@@ -2,7 +2,7 @@
 
 I am a Frontend Developer specialising within the Javascript ecosystem. 
 
-I really enjoy working in React (React Native) and Typescript but I also dabble in the backend with Node.js, Sequelize and PostgresSQL.
+I really enjoy working in React (React Native) with Typescript but I also dabble in the backend with Node.js, Sequelize and PostgresSQL.
 
 
 
@@ -31,21 +31,8 @@ I really enjoy working in React (React Native) and Typescript but I also dabble 
 </span>
 </span>
 
-<!-- <h4>Current Projects I'm working on:</h4>
-<ul>
-  <li>
-    <a href='https://github.com/BOUNCE8/MoodyApp/tree/development'>Moody App</a>  <span>- Mood recording app that allows for monitoring mood trends.</span>
-  </li>
-</ul> -->
 
-
-
-<!--
-**BOUNCE8/BOUNCE8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -53,5 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
 
