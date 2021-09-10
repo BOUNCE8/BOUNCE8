@@ -4,7 +4,7 @@ I am a Frontend Developer specialising within the Javascript ecosystem.
 
 I really enjoy working in React (React Native) and Typescript but I also dabble in the backend with Node.js, Sequelize and PostgresSQL.
 
-<p>My Tech Stack:</p>
+<span>My Tech Stack:</span>
 
 <span>
 
