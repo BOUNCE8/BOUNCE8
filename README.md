@@ -5,6 +5,8 @@ I am a Frontend Developer specialising within the Javascript ecosystem.
 I really enjoy working in React (React Native) with Typescript but I also dabble in the backend with Node.js, Sequelize and PostgresSQL.
 
 
+- 🌱 I’m currently learning Three.js
+
 
 <span>
   
@@ -33,7 +35,7 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
 
 
 <!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
