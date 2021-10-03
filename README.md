@@ -40,10 +40,16 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
   <code>
     <a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b6f3a358faa8d7b5a24528eef859f2200e930ddf058c9bbf2319f5294e5ddc89/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="nodejs" width="50" height="50" data-canonical-src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
   </code>
-  
-  
-  
-  </p>
+  <code>
+    <a href="https://expressjs.com" rel="nofollow"><img src="https://camo.githubusercontent.com/4f943da006980b03002bdbc3d40630c2e849f0131bfa8d1ee8e2714723df5e16/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f657870726573732d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="express" width="50" height="50" data-canonical-src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
+  </code>
+  <code>
+    <a href="https://www.mongodb.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/d877614148260e402126c50c49552a4a34c81594c4030a7726d1be68f7135b72/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="mongodb" width="50" height="50" data-canonical-src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
+  </code>
+  <code>
+    <a href="https://www.postgresql.org" rel="nofollow"><img src="https://camo.githubusercontent.com/e3cc61d919bd70f7419bd1dd9d74b56e786efd0e5250c109b7a18d99ab1c1eaf/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="postgresql" width="50" height="50" data-canonical-src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
+  </code>
+ </p>
   
   
   
@@ -57,9 +63,9 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
 
 
 
-<a href="https://expressjs.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/4f943da006980b03002bdbc3d40630c2e849f0131bfa8d1ee8e2714723df5e16/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f657870726573732d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="express" width="50" height="50" data-canonical-src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
-<a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/d877614148260e402126c50c49552a4a34c81594c4030a7726d1be68f7135b72/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="mongodb" width="50" height="50" data-canonical-src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
-<a href="https://www.postgresql.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e3cc61d919bd70f7419bd1dd9d74b56e786efd0e5250c109b7a18d99ab1c1eaf/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="postgresql" width="50" height="50" data-canonical-src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
+
+
+
   
 
   
