@@ -8,12 +8,12 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
 - 🌱 I’m currently learning [Three.js](https://threejs.org/)
 
 
-<span>
+
   
 
 <p>My Tech Stack:  
   <code>
-    <a href="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" rel="nofollow"> <img src="https://camo.githubusercontent.com/969941fee70809f2e154beb80b7f50f3d80a67eb35f7e5c8a47b614032ec7b6a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f747970657363726970742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="typescript" width="40" height="40" data-canonical-src="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
+    <a href="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" rel="nofollow"><img src="https://camo.githubusercontent.com/969941fee70809f2e154beb80b7f50f3d80a67eb35f7e5c8a47b614032ec7b6a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f747970657363726970742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="typescript" width="40" height="40" data-canonical-src="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
   </code>
   <code> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
   <code> 
@@ -73,8 +73,7 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
   
   
 
-</span>
-</span>
+
 
 
 <!-- - 🔭 I’m currently working on ...
