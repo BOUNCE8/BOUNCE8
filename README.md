@@ -20,7 +20,7 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/290939f8582a3cfe443a7d1d555e1403b6b9553fa97bc6f8db0e95771cce45f6/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f72656163742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="react" width="40" height="40" data-canonical-src="https://icongr.am/devicon/react-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"> </a>
   </code>
   <code>
-  <a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4"><height="40" width="40" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4"><img height="40" width="40" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&amp;v=4" style="max-width:100%;"></a>
   </code>
   
   
