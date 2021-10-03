@@ -13,10 +13,12 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
 
 <div>
   <p>My Tech Stack:</p>
-  
-  <code>
+  <ul>
+    <li>
+    <code>
     <a href="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" rel="nofollow"><img src="https://camo.githubusercontent.com/969941fee70809f2e154beb80b7f50f3d80a67eb35f7e5c8a47b614032ec7b6a/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f747970657363726970742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="typescript" width="40" height="40" data-canonical-src="https://icongr.am/devicon/typescript-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
   </code>
+    </li>
   <code>
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code><code><a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/290939f8582a3cfe443a7d1d555e1403b6b9553fa97bc6f8db0e95771cce45f6/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f72656163742d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="react" width="40" height="40" data-canonical-src="https://icongr.am/devicon/react-original.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
   </code>
@@ -50,6 +52,10 @@ I really enjoy working in React (React Native) with Typescript but I also dabble
   <code>
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://camo.githubusercontent.com/e3cc61d919bd70f7419bd1dd9d74b56e786efd0e5250c109b7a18d99ab1c1eaf/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="postgresql" width="50" height="50" data-canonical-src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width:100%;"></a>
   </code>
+  
+  </ul>
+  
+  
  </div>
   
   
